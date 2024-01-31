@@ -1,0 +1,4 @@
+cd Desktop 
+git clone https://github.com/AnovoaR93/Prueba31.git
+touch comandos.txt 
+vi comandos.txt
